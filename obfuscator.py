@@ -1,6 +1,6 @@
 # Author: Mason Palma
 # File: obfuscator.py
-# Date: 28NOV2021
+# Date: 30MAY2021
 # Purpose: Obfuscate your code while maintaining its functionality.
 # Supported Languages: Python, Java(future), Powershell(future)
 
